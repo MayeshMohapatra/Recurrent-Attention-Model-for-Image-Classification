@@ -18,7 +18,7 @@ This repository contains a PyTorch implementation of the Recurrent Attention Mod
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Blebot0/Recurrent-Attention-Model-for-Image-Classification.git
 cd Recurrent-Attention-Model-for-Image-Classification
 ```
 
